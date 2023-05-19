@@ -1,0 +1,35 @@
+body {
+    font-family: Arial, Helvetica, sans-serif
+}
+.atr {
+    text-decoration: none;
+}
+.breadcrumb {
+  display: flex;
+  flex-wrap: wrap;
+  list-style: none;
+  padding: 0;
+  color: #565959;
+  margin: 30px;
+  font-size: 13px;
+}
+.title {
+    font-weight: lighter;
+}
+
+.main-img {
+    box-shadow: 0px 2px 5px lightgray;
+    margin: 30px;
+    width: 300px;
+}
+.bdy {
+    display: flex;
+    border: 3px solid #121212;
+}
+.author {
+    color: #007185;
+}    
+.divdiv {
+    margin: 20px;
+    
+}
